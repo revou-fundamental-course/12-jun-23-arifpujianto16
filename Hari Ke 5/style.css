@@ -1,0 +1,37 @@
+body {
+    background-image: url("Awesome.png");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 50%;
+    text-align: center;
+    
+}
+
+h1 {
+    font-style: normal;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 5%;
+    
+}
+
+#InputField {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+#inputCelcius { background-color: yellowgreen;
+    
+}
+
+#reset {
+    background-color: rgb(241, 0, 169);
+}
+
+#reverse {
+    background-color: rgb(235, 169, 4);
+}
